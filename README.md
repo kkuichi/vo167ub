@@ -1,6 +1,5 @@
-# vo167ub
+# Text Classification Models: DistilBERT, BERTweet, ConvBERT, ELECTRA 
 
-Text Classification Models: DistilBERT, BERTweet, ConvBERT, ELECTRA 
 Tento repozitár obsahuje implementáciu a vyhodnotenie štyroch transformerových modelov určených pre binárnu klasifikáciu krátkeho textu, 
 konkrétne na detekciu pôvodu textu – či bol text napísaný človekom (human) alebo vygenerovaný umelou inteligenciou (AI). 
 Modely boli trénované a testované na vlastnej dátovej sade, a ich výkon bol meraný pomocou confusion matíc a metrík.
